@@ -1,0 +1,15 @@
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\Baithiuwp.csprojAssemblyReference.cache
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\App.g.i.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\App.g.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\Contact\ContactPage.g.i.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\Contact\ContactPage.g.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\MainPage.g.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\App.xaml
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\MainPage.xaml
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\Contact\ContactPage.xaml
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\App.xbf
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\MainPage.xbf
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\Contact\ContactPage.xbf
+C:\Users\tiepb\source\repos\Baithiuwp\Baithiuwp\obj\ARM\Debug\XamlSaveStateFile.xml
